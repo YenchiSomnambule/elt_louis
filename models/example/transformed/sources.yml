@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+
+  - name: YENCHIWANG_DMA
+    description: "Class test data"
+    database: YENCHIWANG_DMA
+    schema: CLASS_TEST
+    tables:
+      - name: CUSTOMER
+        description: "this is the Customer table info"
+      - name: ORDERS
+        description: "this is orders table info"
+      - name: PRODUCT
+        description: "This is a product table info"
